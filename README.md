@@ -1,2 +1,2 @@
-# Swikruti23-Hand-Danger-Detection-Project
-Hand tracking danger zone project
+# Hand Tracking Danger Detection System
+This project detects a user's hand position and gives a Danger Warning when the hand is near a virtual boundary.
